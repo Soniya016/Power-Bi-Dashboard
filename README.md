@@ -1,1 +1,2 @@
 # Power-Bi-Dashboard
+Leveraged Microsoft Power BI for comprehensive data manipulation, statistical analysis, and visualization. Efficiently consolidated data from diverse sources using Power BI Desktop. Developed custom measures for year-to-date (YTD), month-to-date (MTD), and quarter-to-date (QTD) growth analyses, enabling deeper insights. Additionally, utilized Power BI to analyze customer feedback data and identify key satisfaction drivers.
